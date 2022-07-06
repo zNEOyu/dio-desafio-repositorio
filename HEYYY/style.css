@@ -2,6 +2,8 @@ body{
     background: rgb(184, 181, 181);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: oblique;
+    margin: auto;
+    max-width: 900px;
 }
 #title, .subtitle, .posttitle{
     color: rgb(0, 0, 29)
